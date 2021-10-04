@@ -18,6 +18,8 @@ Ich habe es Geschaft das Lernjournal mit dem Repository zu verbinden
  - Z1: Erledigt Link: https://gitlab.com/ch-tbz-it/Stud/m231
 
 # 27.09.2021
+Was Schützeswerde Daten sind./ Done
+Quelle: https://www.datenschutz.org/personenbezogene-daten/
 | Ziel | Auswertung   |
 |----------------------------------------------------------------------------------|---------------------------------------------------|
 | Drei Passwortverwaltungsprogramme miteinander verglichen und dokumentiert.       | Keepass, Lastpass, Bitwarden, 5 Kriterien => Done |
