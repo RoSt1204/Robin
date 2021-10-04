@@ -6,6 +6,8 @@ Portfolio erstellt
 # Bis 19.09.2021
 Folgende Inhalte habe ich seit Beginn bis am 19.09.2021 mitgenommen:
 
+# 20.9.2021
+Ich habe es Geschaft das Lernjournal mit dem Repository zu verbinden
 
 # 20.09.2021
 ## Ziele
@@ -25,7 +27,7 @@ Folgende Inhalte habe ich seit Beginn bis am 19.09.2021 mitgenommen:
 
 
 # 04.10.2021
-
+Ich habe mich für Lastpass entschieden da ich das bereits habe. Lastpass hat eine Key-Gen funktion und Fügt deine Gespeicherten Passwörter automatisch ein. Man kann es sich auf dem Handy herunterladen und sich mit fingerabdruck einlogen. Es gibt ein Masterpassword. 
 # 25.10.2021
 
 
